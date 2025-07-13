@@ -1,2 +1,17 @@
-/backend/__pychache__/
+/backend/venv310/# === Backend ===
+/backend/__pycache__
 /backend/venv310/
+/backend/model/
+
+# === Frontend ===
+/frontend/node_modules/
+/frontend/build/
+
+# === General ===
+/results/
+/*.log
+*.tmp
+.DS_Store
+.env
+__pycache__
+*.py[cod]
