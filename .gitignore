@@ -1,5 +1,5 @@
 /backend/venv310/# === Backend ===
-/backend/__pycache__
+/backend/__pycache__/
 /backend/venv310/
 /backend/model/
 
@@ -13,5 +13,5 @@
 *.tmp
 .DS_Store
 .env
-__pycache__
+__pycache__/
 *.py[cod]
