@@ -4,9 +4,6 @@ Simple sentiment analysis API - tells if text is positive or negative.
 ## 🎥 Demo Video
 **Watch the project in action:** [Project Demo on Loom](https://www.loom.com/share/0602c99788fe4d3698c1a81158eaccf7?sid=c8b048c1-9338-4241-b6cf-982ccdcdc737)
 
-## Live Demo
-**Try it live:** [https://electronix-ai-assignment.vercel.app/](https://electronix-ai-assignment.vercel.app/)
-
 ## 📁 Complete Project Structure
 ```
 ELECTRONIX-AI-PROJECT/
